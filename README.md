@@ -4,7 +4,7 @@ Estas son las reglas, sugerencias que se deben de tener en cuenta en la comunida
 
 * No recurrir a la violencia en verbal en las publicaciones de los miembros de la comunidad.
 * No realizar publicaciones sobre cursos piratiados
-* No realizar Span sobre temas fuera de programación
+* No realizar Spam sobre temas fuera de programación
 
 * Cuando se realize una pregunta, deberia agregar el contexto en lo que esta trabajando, presentar el problema y realizar su pregunta
 * Añadir imagenes del codigo fuente si es necesario, o agregar links donde se encuentre el repositorio del codigo fuente
